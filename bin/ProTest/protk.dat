@@ -1,0 +1,7 @@
+name Test
+startup dll
+EXEC_FILE D:\CreoTools\bin\ProTest\ProTest.dll
+TEXT_DIR D:\CreoTools\bin\ProTest
+revision Creo
+allow_stop TRUE
+end

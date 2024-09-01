@@ -1,0 +1,7 @@
+﻿TestButtonLabel
+TestButton
+测试按钮
+
+TestHelpMsgLabel
+TestButtonHelpMsg
+测试按钮的帮助信息
